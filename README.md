@@ -34,11 +34,20 @@
 | English Foreign Language Proficiency Exam | Assis Gurgacz University Center (FAG) | Nov 2022 | Score: 9 | [english.pdf](certificates/english.pdf) |
 | English Program — Upper Intermediate Level | Yázigi Internexus | Dec 2009 | 100h, including 70h of instruction and 30h of web-based activities | [yazigi.pdf](certificates/yazigi.pdf) |
 
+## Academic Teaching & Internship Experience
+
+| Activity | Institution | Date / Period | Workload | Type | File |
+|---|---|---:|---:|---|---|
+| Fundamentals of Computer Theory | Federal University of Mato Grosso do Sul (UFMS) | Feb–Jun 2018 | 204h | Teaching Assistantship | [monitoria-fundamentos-teoria-computacao.pdf](certificates/monitoria-fundamentos-teoria-computacao.pdf) |
+| Computer Architecture II | Federal University of Mato Grosso do Sul (UFMS) | Nov 2016–Apr 2017 | 208h | Teaching Assistantship | [monitoria-arquitetura-computadores-ii.pdf](certificates/monitoria-arquitetura-computadores-ii.pdf) |
+| IT Infrastructure Support | Federal University of Mato Grosso do Sul (UFMS) | Aug 2015–Jun 2016 | 829h | Non-mandatory Internship | [estagio-suporte-infraestrutura-informatica.pdf](certificates/estagio-suporte-infraestrutura-informatica.pdf) |
+
 ## Workshops, Academic Events & Extension Activities
 
 | Activity | Institution / Event | Date / Period | Workload | Type | File |
 |---|---|---:|---:|---|---|
 | Seminar on Entrepreneurship Topics | Federal University of Mato Grosso do Sul (UFMS) | Dec 2017 | 12h | Organizing Committee | [029ebe14-35d1-46b0-9be9-07f465e255e1.pdf](certificates/029ebe14-35d1-46b0-9be9-07f465e255e1.pdf) |
+| Quaternary Logic Case Study and MVL Algebra for Quaternary Digital Circuits | Federal University of Mato Grosso do Sul (UFMS) | Sep 2017 | 4h | Mini-course | [minicurso-logica-quaternaria-algebra-mvl.pdf](certificates/minicurso-logica-quaternaria-algebra-mvl.pdf) |
 | 2nd Computer Systems Workshop | Federal University of Mato Grosso do Sul (UFMS) | Sep–Oct 2018 | 12h | Workshop | [407bb27b-b984-4c89-b043-9c653e4cfff0.pdf](certificates/407bb27b-b984-4c89-b043-9c653e4cfff0.pdf) |
 | Development of a Kernel for Intel x86 | Federal University of Mato Grosso do Sul (UFMS) | Sep 2018 | 4h | Workshop | [972c251b-92c6-4dca-b408-5de49b8f641c.pdf](certificates/972c251b-92c6-4dca-b408-5de49b8f641c.pdf) |
 | JavaScript Basics Workshop | Federal University of Mato Grosso do Sul (UFMS) | Sep 2018 | 4h | Workshop | [920c5798-e5e1-40e9-ade7-940a85f7a6ba.pdf](certificates/920c5798-e5e1-40e9-ade7-940a85f7a6ba.pdf) |
