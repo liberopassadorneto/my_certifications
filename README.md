@@ -19,13 +19,13 @@
 | Clean Code and Clean Architecture | Branas.io | — | 24h | [branasio.png](certificates/branasio.png) |
 | GraphQL by Example | Udemy | Apr 2023 | 5.5h | [graphql.pdf](certificates/graphql.pdf) |
 | Clojure: Introduction to Functional Programming | Udemy | Mar 2024 | 11h | [clojure.pdf](certificates/clojure.pdf) |
-| Node.js — REST APIs, Swagger, SOLID, DDD, Docker, TypeORM, JWT, CI/CD and serverless | Rocketseat Technology College | Oct 2022 | 100h | [Certificate_Node.js - 2021.pdf](certificates/Certificate_Node.js%20-%202021.pdf) |
-| React.js — Hooks, Context API, Next.js, API integration, testing and performance | Rocketseat Technology College | Oct 2021 | 100h | [Certificate_React - 2021.pdf](certificates/Certificate_React%20-%202021.pdf) |
-| Clean Code | Rocketseat Technology College | Feb 2023 | 3h | [Certificate_Clean Code.pdf](certificates/Certificate_Clean%20Code.pdf) |
-| Figma — UI-to-HTML/CSS migration, design tokens and GitHub Actions automation | Rocketseat Technology College | Feb 2023 | 2h | [Certificate_Figma.pdf](certificates/Certificate_Figma.pdf) |
-| International Career — Portfolio, self-management, culture, hiring models and seniority | Rocketseat Technology College | Apr 2023 | 2h | [Certificate_Carreira Internacional.pdf](certificates/Certificate_Carreira%20Internacional.pdf) |
-| NLW AI — Artificial intelligence in programming | Rocketseat | Sep 2023 | 10h | [Certificate_NLW IA.pdf](certificates/Certificate_NLW%20IA.pdf) |
-| Assemble — Technical decision-making, tool evaluation, code mindset, leadership and team development | Rocketseat | Mar 2023 | 30h | [Certificado_Assemble_Libero.pdf](certificates/Certificado_Assemble_Libero.pdf) |
+| Node.js — REST APIs, Swagger, SOLID, DDD, Docker, TypeORM, JWT, CI/CD and serverless | [Rocketseat](https://www.rocketseat.com.br/) | Oct 2022 | 100h | [Certificate_Node.js - 2021.pdf](certificates/Certificate_Node.js%20-%202021.pdf) |
+| React.js — Hooks, Context API, Next.js, API integration, testing and performance | [Rocketseat](https://www.rocketseat.com.br/) | Oct 2021 | 100h | [Certificate_React - 2021.pdf](certificates/Certificate_React%20-%202021.pdf) |
+| Clean Code | [Rocketseat](https://www.rocketseat.com.br/) | Feb 2023 | 3h | [Certificate_Clean Code.pdf](certificates/Certificate_Clean%20Code.pdf) |
+| Figma — UI-to-HTML/CSS migration, design tokens and GitHub Actions automation | [Rocketseat](https://www.rocketseat.com.br/) | Feb 2023 | 2h | [Certificate_Figma.pdf](certificates/Certificate_Figma.pdf) |
+| International Career — Portfolio, self-management, culture, hiring models and seniority | [Rocketseat](https://www.rocketseat.com.br/) | Apr 2023 | 2h | [Certificate_Carreira Internacional.pdf](certificates/Certificate_Carreira%20Internacional.pdf) |
+| NLW AI — Artificial intelligence in programming | [Rocketseat](https://www.rocketseat.com.br/) | Sep 2023 | 10h | [Certificate_NLW IA.pdf](certificates/Certificate_NLW%20IA.pdf) |
+| Assemble — Technical decision-making, tool evaluation, code mindset, leadership and team development | [Rocketseat](https://www.rocketseat.com.br/) | Mar 2023 | 30h | [Certificado_Assemble_Libero.pdf](certificates/Certificado_Assemble_Libero.pdf) |
 
 ## Language Certificates
 
