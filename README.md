@@ -1,9 +1,9 @@
 ## Degrees / Academic Background
 
-| Credential | Institution | Date / Period | Area | File |
-|---|---|---:|---|---|
-| M.Sc. in Applied Computing | Federal University of Mato Grosso do Sul (UFMS) | Oct 2024 | Computational Technologies for Smart Cities | [diploma_69418f4dfd53da7.pdf](certificates/diploma_69418f4dfd53da7.pdf) |
-| B.Sc. in Computer Engineering | Federal University of Mato Grosso do Sul (UFMS) | Dec 2021 | Computer Engineering | [diploma_694694b199f0f7945a.pdf](certificates/diploma_694694b199f0f7945a.pdf) |
+| Credential | Institution | Date / Period | File |
+|---|---|---:|---|
+| M.Sc. in Applied Computing | Federal University of Mato Grosso do Sul (UFMS) | Oct 2024 | [diploma_69418f4dfd53da7.pdf](certificates/diploma_69418f4dfd53da7.pdf) |
+| B.Sc. in Computer Engineering | Federal University of Mato Grosso do Sul (UFMS) | Dec 2021 | [diploma_694694b199f0f7945a.pdf](certificates/diploma_694694b199f0f7945a.pdf) |
 
 ## Postgraduate Programs
 
