@@ -1,7 +1,3 @@
-# Courses & Certifications
-
-Dates use month/year precision. A range is shown only when the certificate explicitly provides start and end dates that span different months or years.
-
 ## Degrees / Academic Background
 
 | Credential | Institution | Date / Period | Area | File |
