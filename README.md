@@ -21,7 +21,7 @@
 | Clojure: Introduction to Functional Programming | Udemy | Mar 2024 | 11h | [clojure.pdf](certificates/clojure.pdf) |
 | Node.js — REST APIs, Swagger, SOLID, DDD, Docker, TypeORM, JWT, CI/CD and serverless | [Rocketseat](https://www.rocketseat.com.br/) | Oct 2022 | 100h | [Certificate_Node.js - 2021.pdf](certificates/Certificate_Node.js%20-%202021.pdf) |
 | React.js — Hooks, Context API, Next.js, API integration, testing and performance | Rocketseat | Oct 2021 | 100h | [Certificate_React - 2021.pdf](certificates/Certificate_React%20-%202021.pdf) |
-| Clean Code | Rocketseat | Feb 2023 | 3h | [Certificate_Clean Code.pdf](certificates/Certificate_Clean%20Code.pdf) |
+| Clean Code — Principles and techniques applied to JavaScript with ReactJS and Node.js | Rocketseat | Feb 2023 | 3h | [Certificate_Clean Code.pdf](certificates/Certificate_Clean%20Code.pdf) |
 | Figma — UI-to-HTML/CSS migration, design tokens and GitHub Actions automation | Rocketseat | Feb 2023 | 2h | [Certificate_Figma.pdf](certificates/Certificate_Figma.pdf) |
 | International Career — Portfolio, self-management, culture, hiring models and seniority | Rocketseat | Apr 2023 | 2h | [Certificate_Carreira Internacional.pdf](certificates/Certificate_Carreira%20Internacional.pdf) |
 | NLW AI — Artificial intelligence in programming | Rocketseat | Sep 2023 | 10h | [Certificate_NLW IA.pdf](certificates/Certificate_NLW%20IA.pdf) |
