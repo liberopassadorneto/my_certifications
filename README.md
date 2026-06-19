@@ -19,17 +19,17 @@ Dates use month/year precision. A range is shown only when the certificate expli
 
 | Course / Certification | Provider | Date / Period | Workload | File |
 |---|---|---:|---:|---|
-| Go Expert | Full Cycle | Jan 2024 | 120h | [libero-passador-neto-go-expert.pdf](certificates/libero-passador-neto-go-expert.pdf) |
-| Clean Code and Clean Architecture | Branas.io | — | 24h | [branasio.png](certificates/branasio.png) |
-| GraphQL by Example | Udemy | Apr 2023 | 5.5h | [graphql.pdf](certificates/graphql.pdf) |
-| Clojure: Introduction to Functional Programming | Udemy | Mar 2024 | 11h | [clojure.pdf](certificates/clojure.pdf) |
-| Node.js | Rocketseat Technology College | Oct 2022 | 100h | [Certificate_Node.js - 2021.pdf](certificates/Certificate_Node.js%20-%202021.pdf) |
-| React.js | Rocketseat Technology College | Oct 2021 | 100h | [Certificate_React - 2021.pdf](certificates/Certificate_React%20-%202021.pdf) |
-| Clean Code | Rocketseat Technology College | Feb 2023 | 3h | [Certificate_Clean Code.pdf](certificates/Certificate_Clean%20Code.pdf) |
-| Figma | Rocketseat Technology College | Feb 2023 | 2h | [Certificate_Figma.pdf](certificates/Certificate_Figma.pdf) |
-| International Career | Rocketseat Technology College | Apr 2023 | 2h | [Certificate_Carreira Internacional.pdf](certificates/Certificate_Carreira%20Internacional.pdf) |
-| NLW AI | Rocketseat | Sep 2023 | 10h | [Certificate_NLW IA.pdf](certificates/Certificate_NLW%20IA.pdf) |
-| Assemble — Technical Leadership Immersion | Rocketseat | Mar 2023 | 30h | [Certificado_Assemble_Libero.pdf](certificates/Certificado_Assemble_Libero.pdf) |
+| Go Expert — Go fundamentals, APIs, concurrency, databases and clean architecture | Full Cycle | Jan 2024 | 120h | [libero-passador-neto-go-expert.pdf](certificates/libero-passador-neto-go-expert.pdf) |
+| Clean Code and Clean Architecture — Code quality, design principles and architectural patterns | Branas.io | — | 24h | [branasio.png](certificates/branasio.png) |
+| GraphQL by Example — Schema design, queries, mutations and API development | Udemy | Apr 2023 | 5.5h | [graphql.pdf](certificates/graphql.pdf) |
+| Clojure: Introduction to Functional Programming — Functional programming fundamentals with Clojure | Udemy | Mar 2024 | 11h | [clojure.pdf](certificates/clojure.pdf) |
+| Node.js — Backend APIs, SOLID, DDD, Docker and CI/CD | Rocketseat Technology College | Oct 2022 | 100h | [Certificate_Node.js - 2021.pdf](certificates/Certificate_Node.js%20-%202021.pdf) |
+| React.js — React, Next.js, data fetching, testing and performance | Rocketseat Technology College | Oct 2021 | 100h | [Certificate_React - 2021.pdf](certificates/Certificate_React%20-%202021.pdf) |
+| Clean Code — Clean-code practices for JavaScript, React and Node.js | Rocketseat Technology College | Feb 2023 | 3h | [Certificate_Clean Code.pdf](certificates/Certificate_Clean%20Code.pdf) |
+| Figma — UI design, design tokens and GitHub Actions automation | Rocketseat Technology College | Feb 2023 | 2h | [Certificate_Figma.pdf](certificates/Certificate_Figma.pdf) |
+| International Career — Portfolio, self-management, hiring models and seniority | Rocketseat Technology College | Apr 2023 | 2h | [Certificate_Carreira Internacional.pdf](certificates/Certificate_Carreira%20Internacional.pdf) |
+| NLW AI — Artificial intelligence applied to programming workflows | Rocketseat | Sep 2023 | 10h | [Certificate_NLW IA.pdf](certificates/Certificate_NLW%20IA.pdf) |
+| Assemble — Technical leadership, tool evaluation, team building and decision-making | Rocketseat | Mar 2023 | 30h | [Certificado_Assemble_Libero.pdf](certificates/Certificado_Assemble_Libero.pdf) |
 
 ## Language Certificates
 
